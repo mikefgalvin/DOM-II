@@ -64,7 +64,6 @@ const logo = document.querySelector('.logo-heading');
       });
 
 
-
 //Body 
 const allPar = document.querySelectorAll('body p');
     
